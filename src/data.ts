@@ -121,5 +121,5 @@ const products: Product[] = [
     },
 ];
 
-
-export { Product, products };
+export type { Product };
+export { products };
